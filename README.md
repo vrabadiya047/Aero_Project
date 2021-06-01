@@ -7,7 +7,3 @@ Gazebo World Screenshots
 ![Screenshot (42)](https://user-images.githubusercontent.com/65404747/85031583-26509680-b17f-11ea-97bd-3081ba25fdca.png)
 ![Screenshot (40)](https://user-images.githubusercontent.com/65404747/85031591-2781c380-b17f-11ea-82c2-ff3c7c593834.png)
 
-Team members
-1. Vivek Rameshbhai Rabadiya (518426)
-2. Chirag Ghanshyambhai Dudhat (519276)
-3. Modi Kinjal Vipulkumar (518419)
